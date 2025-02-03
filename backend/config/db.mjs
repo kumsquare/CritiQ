@@ -14,9 +14,3 @@ const connectDB = async () => {
 };
 
 export default  connectDB ;
-
-
-
-//"name": "George Orwell",
- // "bio":"George Orwell was an English novelist, essayist, journalist, and critic. He is best known for his novels 1984 and Animal Farm, which critique totalitarian regimes and explore themes of oppression and government control..."
- 
