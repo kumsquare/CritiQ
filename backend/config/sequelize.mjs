@@ -7,5 +7,5 @@ const sequelize = new Sequelize('book_review_db', 'root', 'EfasmK*eA3', {
   logging: false,
 });
 
-export default sequelize;  // Export the sequelize instance
+export default sequelize;  // Export the sequelize instanc
 
